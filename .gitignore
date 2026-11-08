@@ -1,2 +1,3 @@
 app.log
 secret.env
+cred.env
